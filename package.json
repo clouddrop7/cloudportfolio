@@ -37,6 +37,7 @@
         "web-vitals": "^4.2.4"
     },
     "scripts": {
+        "build": "react-scripts build",
         "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
