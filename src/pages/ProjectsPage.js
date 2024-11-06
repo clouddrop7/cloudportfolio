@@ -1,9 +1,5 @@
 import { Container,Row, Col, Button } from 'react-bootstrap';
-<<<<<<< HEAD
 import ProjectsList from './features/projects/ProjectsList.js';
-=======
-import ProjectsList from '/features/projects/ProjectsList.js';
->>>>>>> a942db70795f71a8f37302e3b7b57374a6991881
 import "../styles/components/ProjectPage/projectPage.scss";
 
 //adding a comment to test functionality of application
