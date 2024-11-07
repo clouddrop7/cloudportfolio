@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c38aecfb.css",
-    "main.js": "/static/js/main.63a7ef76.js",
+    "main.css": "/cloudportfolio/static/css/main.4ca22ee7.css",
+    "main.js": "/cloudportfolio/static/js/main.11c0b8f9.js",
     "static/media/sunset.jpg": "/cloudportfolio/static/media/sunset.fc4e7d6bb762fe386e1e.jpg",
     "static/media/nucamp.png": "/cloudportfolio/static/media/nucamp.dc229177b70dc06b22c2.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/cloudportfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -37,11 +37,11 @@
     "static/media/css-96.svg": "/cloudportfolio/static/media/css-96.64fa1d1c4801d931c371.svg",
     "static/media/html-5-48.svg": "/cloudportfolio/static/media/html-5-48.c1bb84e022ca9d76984d.svg",
     "static/media/html-5-96.svg": "/cloudportfolio/static/media/html-5-96.8ae3d4adcd70a1028a63.svg",
-    "main.c38aecfb.css.map": "/cloudportfolio/static/css/main.c38aecfb.css.map",
-    "main.63a7ef76.js.map": "/cloudportfolio/static/js/main.63a7ef76.js.map"
+    "main.4ca22ee7.css.map": "/cloudportfolio/static/css/main.4ca22ee7.css.map",
+    "main.11c0b8f9.js.map": "/cloudportfolio/static/js/main.11c0b8f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.c38aecfb.css",
-    "static/js/main.63a7ef76.js"
+    "static/css/main.4ca22ee7.css",
+    "static/js/main.11c0b8f9.js"
   ]
 }
